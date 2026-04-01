@@ -1,0 +1,33 @@
+spring:
+  application:
+    name: agenda
+  port: 8080
+  threads:
+    virtual:
+      enabled: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/tjj_db
+    username: root
+    password: password
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+springdoc:
+  api-docs:
+    path: "/api-docs"
+
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
