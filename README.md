@@ -24,4 +24,3 @@ Projeto completo de gestão de livros desenvolvido com foco em Clean Architectur
 - **Containerização**: Docker & Docker Compose
 
 ---
-

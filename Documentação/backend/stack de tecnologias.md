@@ -1,0 +1,10 @@
+- **Core**: Java 21 & Spring Boot 3.2.7
+- **Segurança**: Spring Security & JWT (JSON Web Token)
+- **Persistência**: Spring Data JPA & Hibernate
+- **Banco de Dados Relacional**: PostgreSQL
+- **Banco de Dados NoSQL**: MongoDB
+- **Cache**: Redis
+- **Broker de Mensagens**: Apache Pulsar
+- **Relatórios**: Apache POI (Geração de PDFs)
+- **Build Tool**: Maven (Projeto Multi-módulo)
+- **Containerização**: Docker & Docker Compose

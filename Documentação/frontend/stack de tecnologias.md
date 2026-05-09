@@ -1,0 +1,15 @@
+- **Framework**: React
+- **Linguagem**: TypeScript
+- **Estilização**: Bootstrap 5 ( Dark Mode | Light Mode & Responsive)
+- **Comunicação**: Axios
+- **Ícones**: Lucide React
+- **Navegação**: React Router Dom
+- **Build Tool**: Vite
+- **Gerenciamento de Estado**: Redux Toolkit
+- **Testes Unitarios**: Jest
+- **Testes de Integração**: Playwright
+- **Testes de E2E**: Playwright
+- **Testes de Performance**: Playwright
+- **Testes de Acessibilidade**: Playwright
+- **Testes de Automatizados**: Playwright
+- **Containerização**: Docker & Docker Compose
